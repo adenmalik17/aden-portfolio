@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.NoBrowser": false,
+  "files.associations": { "*.js": "javascript" },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false
+}

@@ -1,0 +1,9 @@
+{
+  "name": "aden-exe-portfolio",
+  "version": "1.0.0",
+  "description": "ADEN.exe: cinematic personal portfolio of Aden Malik",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "UNLICENSED",
+  "private": true
+}
